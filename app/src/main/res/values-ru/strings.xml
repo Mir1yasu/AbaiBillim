@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AbaiBilim</string>
+    <string name="home0">
+    Повысьте ваш уровень в казахском языке
+</string>
+    <string name="home1">
+    Тренажер самостоятельного изучения казахского языка для свободного общения
+</string>
+    <string name="homeButton">
+    Начать сейчас
+</string>
+    <string name="home2">
+    Откройте для себя удовольствие от изучения казахского языка
+</string>
+    <string name="home3">
+    Решение для тех, кто ищет доверительное общение на казахском языке. С Abaibillim вы можете оценить свой уровень владения казахским языком, определить свои сильные и слабые стороны, улучшить свой словарный запас и грамматику или просто получить удовольствие от общения в чате.
+</string>
+    <string name="homeView0">
+    Чтение
+</string>
+    <string name="homeView1">
+    Грамматика
+</string>
+    <string name="homeView2">
+    Понимание
+</string>
+    <string name="homeView3">
+    Общение
+</string>
+    <string name="home4">
+    Ваш уровень владения языком
+</string>
+    <string name="homeRate0">
+    Уровень:
+</string>
+    <string name="homeRate1">
+    Грамматика
+</string>
+    <string name="homeRate2">
+    Алфавит
+</string>
+    <string name="begin">
+        Начать
+    </string>
+    <string name="addLesson">
+        Добавить урок
+    </string>
+    <string name="addTheory">
+        Добавить теорию
+    </string>
+    <string name="createLesson">
+        Создание урока
+    </string>
+    <string name="createExercise">
+        Создание заданий
+    </string>
+    <string name="addQuestion">
+        Добавить вопрос
+    </string>
+    <string name="preview">
+        Предпросмотр
+    </string>
+    <string name="sendQuestion">
+        Отправить задание
+    </string>
+    <string name="inputTextSize">
+        Введите размер текста (5-50)
+    </string>
+    <string name="main">
+        Главная
+    </string>
+    <string name="lessons">
+        Уроки
+    </string>
+    <string name="settings">
+        Параметры
+    </string>
+    <string-array name="role">
+        <item>
+            Ученик
+        </item>
+        <item>
+            Учитель
+        </item>
+    </string-array>
+</resources>

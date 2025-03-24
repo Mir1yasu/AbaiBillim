@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AbaiBilim</string>
+    <string name="home0">
+        Қазақ тіліндегі деңгейіңізді арттырыңыз
+    </string>
+    <string name="home1">
+        Еркін сөйлесу үшін қазақ тілін өздігінен үйренуге арналған жасанды интеллект негізіндегі тренажер
+    </string>
+    <string name="homeButton">
+        Қазір бастаңыз
+    </string>
+    <string name="home2">
+        Қазақ тілін меңгеру әлеуетіңізді ашыңыз
+    </string>
+    <string name="home3">
+        Abaibillim-қазақ тілінде сенімді сөйлегісі келетіндер үшін тамаша шешім. Жасанды интеллектпен ағылшын тілі бойынша жеке жаттықтырушымен сіз қазақ тілін меңгеру деңгейіңізді бағалай аласыз, күшті және әлсіз жақтарын анықтай аласыз, сөздік қорыңызды және грамматикаңызды жақсарта аласыз немесе чатта кері
+байланыс ала аласыз
+    </string>
+    <string name="homeView0">
+        оқу
+    </string>
+    <string name="homeView1">
+        грамматика
+    </string>
+    <string name="homeView2">
+        тыңдау
+    </string>
+    <string name="homeView3">
+        сөйлеу
+    </string>
+    <string name="home4">
+        Сіздің тілді меңгеру деңгейіңіз
+    </string>Деңгей:
+    <string name="homeRate0">
+        Деңгей:
+    </string>Грамматика
+    <string name="homeRate1">
+        Грамматика
+    </string>
+    <string name="homeRate2">
+        Әліпби
+    </string>
+    <string name="begin">
+        Бастау
+    </string>
+    <string name="addLesson">
+        Сабақ қосу
+    </string>
+    <string name="addTheory">
+        Теория қосу
+    </string>
+    <string name="createLesson">
+        Сабақ жасау
+    </string>
+    <string name="createExercise">
+        Тапсырма жасау
+    </string>
+    <string name="addQuestion">
+        Сұрақ қосу
+    </string>
+    <string name="preview">
+        Алдын ала қарау
+    </string>
+    <string name="sendQuestion">
+        Тапсырманы жіберу
+    </string>
+    <string name="inputTextSize">
+        Мәтін өлшемін енгізіңіз (5-50)
+    </string>
+    <string name="main">
+        Негізгі
+    </string>
+    <string name="lessons">
+        Дәрістер
+    </string>
+    <string name="settings">
+        Параметрлер
+    </string>
+    <string-array name="role">
+        <item>
+            Ученик
+        </item>
+        <item>
+            Учитель
+        </item>
+    </string-array>
+</resources>

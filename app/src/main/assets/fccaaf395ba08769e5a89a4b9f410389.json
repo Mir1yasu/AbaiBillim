@@ -1,0 +1,414 @@
+{
+  "kk": {
+    "exerciseId": 2,
+    "exerciseTheme": "Есімдіктер",
+    "exerciseExplanation": [
+
+      {
+        "exerciseText": "Местоимения в казахском языке являются словами, которые заменяют существительные и помогают избежать их повторения. В казахском языке местоимения делятся на несколько категорий:",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "1. Жекелік есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Я – Мен",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Ты – Сен",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Он/Она/Оно – Ол",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Мы – Біз",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Вы – Сіз (уважительное), Сендер (неофициальное)",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Они – Олар",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "2. Ілік есімдіктер:\n",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Мой – Менің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Твой – Сенің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Его/Её – Оның",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },{
+        "exerciseText": "Наш – Біздің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Ваш – Сіздің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Их – Олардың",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "3. Сілтеу есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Этот – Мынау",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Тот – Анау",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Этот (более дальний) – Осы",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Тот (более дальний) – Сол",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "4. Сұраулық есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Кто – Кім",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Что – Не",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Какой – Қандай",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Где – Қайда",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+
+      {
+        "exerciseText": "5. Болымсыздық есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Никто – Ешкім",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Ничто – Ештеңе",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "6. Белгісіздік есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Кто-то – Біреу",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Что-то – Бірнәрсе",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      }
+    ],
+    "exerciseType": "",
+    "exerciseQuestion": {
+      "questions": [
+        "Қазақ тілінде етістік үшін негізгі сөз қандай?",
+        "Қазақ тілінде іс-әрекеттің осы шақты білдіретін етістік формасы қалай аталады?",
+        "Қазақ тілінде етістікті болымсыз ету үшін қандай жалғау қосылады?",
+        "Қазақ тілінде \"-ған/-ген\" жұрнағы етістікте қандай функция атқарады?",
+        "Қазақ тілінде болашақта болатын іс-әрекетті білдіретін етістік формасы қалай аталады?"
+      ],
+      "answers": [
+        [
+          "Зат есім",
+          "Сын есім",
+          "Етістік"
+        ],
+        [
+          "Өткен шақ",
+          "Осы шақ",
+          "Келер шақ"
+        ],
+        [
+          "-ма/-ме",
+          "-лы/-лі",
+          "-ны/-ні"
+        ],
+        [
+          "Өткен шақты білдіреді",
+          "Болашақ шақты білдіреді",
+          "Іс-әрекетті осы шақта білдіреді"
+        ],
+        [
+          "Бұрынғы шақ",
+          "Келер шақ",
+          "Қазіргі шақ"
+        ]
+      ],
+      "correctAnswers": [
+        ["Етістік"],
+        ["Осы шақ"],
+        ["-ма/-ме"],
+        ["Өткен шақты білдіреді"],
+        ["Келер шақ"]
+      ]
+    }
+  },
+  "ru": {
+    "exerciseId": 2,
+    "exerciseTheme": "Есімдіктер",
+    "exerciseExplanation": [
+
+      {
+        "exerciseText": "Местоимения в казахском языке являются словами, которые заменяют существительные и помогают избежать их повторения. В казахском языке местоимения делятся на несколько категорий:",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "1. Жекелік есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Я – Мен",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Ты – Сен",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Он/Она/Оно – Ол",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Мы – Біз",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Вы – Сіз (уважительное), Сендер (неофициальное)",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Они – Олар",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "2. Ілік есімдіктер:\n",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Мой – Менің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Твой – Сенің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Его/Её – Оның",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },{
+        "exerciseText": "Наш – Біздің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Ваш – Сіздің",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Их – Олардың",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "3. Сілтеу есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Этот – Мынау",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Тот – Анау",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Этот (более дальний) – Осы",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Тот (более дальний) – Сол",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "4. Сұраулық есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Кто – Кім",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Что – Не",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Какой – Қандай",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Где – Қайда",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+
+      {
+        "exerciseText": "5. Болымсыздық есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Никто – Ешкім",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Ничто – Ештеңе",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "6. Белгісіздік есімдіктер:",
+        "exerciseSize": 2,
+        "exerciseIsBold": true
+      },
+      {
+        "exerciseText": "Кто-то – Біреу",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      },
+      {
+        "exerciseText": "Что-то – Бірнәрсе",
+        "exerciseSize": 1.1,
+        "exerciseIsBold": false
+      }
+    ],
+    "exerciseType": "",
+    "exerciseQuestion": {
+      "questions": [
+        "Какое слово является основным для глагола в казахском языке?",
+        "Как называется форма глагола, обозначающая действие, происходящее в настоящем времени?",
+        "Какое окончание добавляется к глаголу, чтобы сделать его отрицательным в казахском языке?",
+        "Какую функцию выполняет суффикс \"-ған/-ген\" в глаголе казахского языка?",
+        "Как называется форма глагола, которая обозначает действие, которое будет происходить в будущем?"
+      ],
+      "answers": [
+        [
+          "Зат есім",
+          "Сын есім",
+          "Етістік"
+        ],
+        [
+          "Өткен шақ",
+          "Осы шақ",
+          "Келер шақ"
+        ],
+        [
+          "-ма/-ме",
+          "-лы/-лі",
+          "-ны/-ні"
+        ],
+        [
+          "Обозначает прошедшее время",
+          "Обозначает будущее время",
+          "Обозначает действие в настоящем времени"
+        ],
+        [
+          "Бұрынғы шақ",
+          "Келер шақ",
+          "Қазіргі шақ"
+        ]
+      ],
+      "correctAnswers": [
+        ["Етістік"],
+        ["Осы шақ"],
+        ["-ма/-ме"],
+        ["Обозначает прошедшее время"],
+        ["Келер шақ"]
+      ]
+    }
+  }
+}

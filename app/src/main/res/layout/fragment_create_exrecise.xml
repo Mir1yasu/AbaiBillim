@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    tools:context=".CreateExreciseFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingBottom="60dp"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="35sp"
+            android:layout_marginTop="30dp"
+            android:text="@string/createLesson"
+            android:textColor="@color/black"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="50dp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                >
+
+                <EditText
+                    android:id="@+id/setSize"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/shape_exercise"
+                    android:backgroundTint="#fff"
+                    android:layout_gravity="start|bottom"
+                    android:fontFamily="@font/noto_sans_regular"
+                    android:gravity="center"
+                    android:hint="@string/inputTextSize"
+                    android:textColor="@color/black"
+                    android:textSize="11sp" />
+
+                <Button
+                    android:id="@+id/setBold"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/shape_answer"
+                    android:backgroundTint="#fff"
+                    android:text="B"
+                    android:layout_marginStart="8dp"
+                    android:textColor="#3e0005"
+                    android:fontFamily="@font/noto_sans_bold"
+                    android:elevation="4dp"
+                    android:textSize="22sp"
+                    />
+
+
+
+                    <Button
+                        android:id="@+id/isSecondLanguage"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:background="@drawable/shape_answer"
+                        android:backgroundTint="#3e0005"
+                        android:elevation="8dp"
+                        android:layout_marginStart="8dp"
+                        android:fontFamily="@font/noto_sans_regular"
+                        android:text="KZ"
+                        android:textAllCaps="false"
+                        android:textColor="#fff"
+                        android:textSize="22sp" />
+
+                <Button
+                    android:id="@+id/changeLanguage"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:background="@drawable/shape_answer"
+                    android:backgroundTint="#3e0005"
+                    android:elevation="8dp"
+                    android:layout_marginStart="8dp"
+                    android:visibility="gone"
+                    android:fontFamily="@font/noto_sans_regular"
+                    android:text="KZ"
+                    android:textAllCaps="false"
+                    android:textColor="#fff"
+                    android:textSize="25sp" />
+
+            </LinearLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="6">
+                <EditText
+                    android:id="@+id/themeMaterialRu"
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/shape_outline"
+                    android:gravity="top"
+                    android:layout_marginEnd="20dp"
+                    android:alpha="0.45"
+                    android:visibility="gone"
+                    android:hint="Пожалуйта, введите тему..."
+                    android:padding="5dp" />
+                <EditText
+                    android:id="@+id/themeMaterialKk"
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/shape_outline"
+                    android:gravity="top"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="10dp"
+                    android:hint="Тақырыпты енгізіңіз"
+                    android:padding="5dp" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="6">
+                <EditText
+                    android:id="@+id/theoryMaterialRu"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/shape_outline"
+                    android:gravity="top"
+                    android:layout_marginEnd="20dp"
+                    android:alpha="0.45"
+                    android:visibility="gone"
+                    android:hint="Пожалуйта, введите теоретический материал ..."
+                    android:padding="5dp" />
+                <EditText
+                    android:id="@+id/theoryMaterialKk"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/shape_outline"
+                    android:gravity="top"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="10dp"
+                    android:hint="Теориялық материалды енгізіңізші"
+                    android:padding="5dp" />
+            </FrameLayout>
+        </LinearLayout>
+        <Button
+            android:id="@+id/addTheory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_exercise"
+            android:backgroundTint="#3e0005"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:text="Добавить теорию"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="35sp"
+            android:layout_marginTop="30dp"
+            android:text="@string/createExercise"
+            android:textColor="@color/black"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="end"
+            android:layout_marginEnd="10dp">
+            <ImageButton
+                android:id="@+id/backQuestion"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:background="@drawable/shape_answer"
+                android:backgroundTint="#3e0005"
+                android:layout_marginEnd="8dp"
+                android:src="@drawable/baseline_arrow_back_ios_new_24"/>
+            <ImageButton
+                android:id="@+id/forwardQuestion"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:background="@drawable/shape_answer"
+                android:backgroundTint="#3e0005"
+                android:rotation="180"
+                android:src="@drawable/baseline_arrow_back_ios_new_24"/>
+        </LinearLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+            <EditText
+                android:id="@+id/questionCreatingQuestionKk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_outline"
+                android:padding="10dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="10dp"
+                android:minHeight="48dp"
+                android:outlineSpotShadowColor="#00000000"
+                android:elevation="2dp"
+                android:hint="Сұрақты енгізіңіз"
+                android:textSize="20sp"
+                />
+            <EditText
+                android:id="@+id/questionCreatingQuestionRu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_outline"
+                android:hint="Введите вопрос"
+                android:minHeight="48dp"
+                android:padding="5dp"
+                android:alpha="0.45"
+                android:visibility="gone"
+                android:elevation="1dp"
+                android:layout_marginEnd="20dp"
+                android:paddingEnd="32dp"
+                android:textSize="18sp" />
+        </FrameLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/questionAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:overScrollMode="never"/>
+
+        <Button
+            android:id="@+id/addQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_exercise"
+            android:backgroundTint="#3e0005"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:text="@string/addQuestion"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="2dp"
+            >
+
+            <Button
+                android:id="@+id/previewExercise"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/shape_exercise"
+                android:backgroundTint="#f1f1f1"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/black"
+                android:textAllCaps="false"
+                android:text="@string/preview"
+                android:layout_marginRight="5dp"
+                />
+
+            <Button
+                android:id="@+id/submitExercise"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/shape_exercise"
+                android:backgroundTint="#3e0005"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:text="@string/sendQuestion"
+                android:layout_marginLeft="5dp"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</androidx.core.widget.NestedScrollView>
